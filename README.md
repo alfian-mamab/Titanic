@@ -35,3 +35,8 @@ The findings indicate that females are more likely to survive, as the count of f
 e) For which variables in the dataset are data missing? How might this affect the answers to the questions above?<br/>
 A calculation for missing values is performed before sorting it from highest to lowest. Notably, there are several missing values in the dataset, including 688 instances where deck information is absent, 177 cases with missing passenger age information, and 2 instances lacking information on the embarked town.
 It is essential to note that the missing information regarding the embarked town could influence the accuracy of the answer to the first question. Similarly, the absence of passenger age information may impact the reliability of the answer to the second question.<br/><br/>
+
+---
+
+## Details
+###[Result Details](https://github.com/alfian-mamab/Titanic/blob/main/Titanic%20Result.pdf)
