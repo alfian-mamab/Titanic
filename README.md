@@ -23,7 +23,7 @@ a) What proportion of passengers embarked at Southampton?<br/>
 The outcome reveals that 72.44% of passengers boarded from Southampton. <br/><br/>
 
 b) Plot and describe the distribution of passengers by age. Did this vary by the class of ticket?<br/>
-![Image](https://github.com/user-attachments/assets/be784f1a-1dd8-4440-95a8-234dc4083dcd)
+<img src="https://github.com/user-attachments/assets/be784f1a-1dd8-4440-95a8-234dc4083dcd" width="300"/>
 Upon examining the graphs, it is evident that the majority of passengers fall within their 20s and 30s. Additionally, in the second graphs we can observe that the second and third class passage relatively younger than the first class.<br/><br/>
 
 c) Were first class passengers more likely to survive?<br/>
