@@ -8,4 +8,4 @@ a) What proportion of passengers embarked at Southampton?<br/>
 b) Plot and describe the distribution of passengers by age. Did this vary by the class of ticket?<br/>
 c) Were first class passengers more likely to survive?<br/>
 d) Were males or females more likely to survive?<br/>
-e) For which variables in the dataset are data missing? How might this affect your answers to the questions above?<br/>
+e) For which variables in the dataset are data missing? How might this affect the answers to the questions above?<br/>
