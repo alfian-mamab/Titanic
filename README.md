@@ -39,4 +39,4 @@ It is essential to note that the missing information regarding the embarked town
 ---
 
 ## Details
-###[Result Details](https://github.com/alfian-mamab/Titanic/blob/main/Titanic%20Result.pdf)
+### [Result Details](https://github.com/alfian-mamab/Titanic/blob/main/Titanic%20Result.pdf)
